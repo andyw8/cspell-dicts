@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6](https://github.com/andyw8/cspell-dicts/compare/@cspell/aoo-mozilla-en-dict@1.0.5...@cspell/aoo-mozilla-en-dict@1.0.6) (2025-12-27)
+
+
+### Updates and Bug Fixes
+
+* Workflow Bot -- Build Dictionaries ([#4599](https://github.com/andyw8/cspell-dicts/issues/4599)) ([a273cbc](https://github.com/andyw8/cspell-dicts/commit/a273cbca8dfc04a9635fe701f2184d56c170eb1d))
+* Workflow Bot -- Build Dictionaries ([#4790](https://github.com/andyw8/cspell-dicts/issues/4790)) ([3864e50](https://github.com/andyw8/cspell-dicts/commit/3864e508eac5c7fbb3124b54d8acd28985a234af))
+
 ## [1.0.5](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/aoo-mozilla-en-dict@1.0.4...@cspell/aoo-mozilla-en-dict@1.0.5) (2025-09-06)
 
 
