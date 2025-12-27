@@ -22,6 +22,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [5.0.9](https://github.com/andyw8/cspell-dicts/compare/@cspell/dict-scala@5.0.8...@cspell/dict-scala@5.0.9) (2025-12-27)
+
+
+### Updates and Bug Fixes
+
+* Encorporate more sw dev terms ([#5116](https://github.com/andyw8/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/andyw8/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/andyw8/cspell-dicts/issues/4640)) ([ce83729](https://github.com/andyw8/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [5.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-scala@5.0.7...@cspell/dict-scala@5.0.8) (2025-07-09)
 
 
